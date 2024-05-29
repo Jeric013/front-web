@@ -3,3 +3,5 @@ Hi this is jerico a front end web Developer.
 I want to become a front web developer
 
 by practicing github and git 
+
+Hi my name is John and I am a Web Developer
